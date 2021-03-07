@@ -80,14 +80,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Experiencia Laboral</h2>
         <div class="w3-container">
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Marzo 2021 <span class="w3-tag w3-teal w3-round"></span></h6>
-          <p>Habilidad y experiencia en el manejo de Bases de Datos, Oracle, PL/SQL, Cubos Hyperion, Administración módulo controling SAP, Python, R, Power BI, Visual studio (Integration Services), Soporte Técnico, herramientas de ofimática, busco por medio de una comunicación clara entender las necesidades de los usuarios para dar soluciones optimas y eficientes a los problemas que a diario se presentan con el manejo de información.</p>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Marzo 2021 -<span class="w3-tag w3-teal w3-round">Banco de Bogotá</span></h6>
+          <p>Habilidad y experiencia en el manejo de Bases de Datos, Oracle, PL/SQL, Cubos Hyperion, Administración módulo controling SAP, Python, R, Power BI, Visual studio (Integration Services).</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
-          <p>Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Septiembre 2012 - Selcomp Ingeniería</h6>
+          <p>Soporte Técnico, instalación, configuración de sistemas operativos y herramientas de ofimática, busco por medio de una comunicación clara entender las necesidades de los usuarios para dar soluciones optimas y eficientes a los problemas que a diario se presentan con el manejo de información.</p>
           <hr>
         </div>
         <div class="w3-container">
