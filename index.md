@@ -23,7 +23,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-display-container">
           <img src="IMG_20170908_125210.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
-            <h2>ALVARO PIMIENTO</h2>
+            <h2>ALVARO PIMIENTO M.</h2>
           </div>
         </div>
         <div class="w3-container">
@@ -80,7 +80,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Experiencia Laboral</h2>
         <div class="w3-container">
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Marzo 2021 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Marzo 2021 <span class="w3-tag w3-teal w3-round"></span></h6>
           <p>Habilidad y experiencia en el manejo de Bases de Datos, Oracle, PL/SQL, Cubos Hyperion, Administración módulo controling SAP, Python, R, Power BI, Visual studio (Integration Services), Soporte Técnico, herramientas de ofimática, busco por medio de una comunicación clara entender las necesidades de los usuarios para dar soluciones optimas y eficientes a los problemas que a diario se presentan con el manejo de información.</p>
           <hr>
         </div>
