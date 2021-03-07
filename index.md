@@ -80,7 +80,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Experiencia Laboral</h2>
         <div class="w3-container">
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Marzo 2021 -<span class="w3-tag w3-teal w3-round">Banco de Bogotá</span></h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Marzo 2021<span class="w3-tag w3-teal w3-round">Banco de Bogotá</span></h6>
           <p>Habilidad y experiencia en el manejo de Bases de Datos, Oracle, PL/SQL, Cubos Hyperion, Administración módulo controling SAP, Python, R, Power BI, Visual studio (Integration Services).</p>
           <hr>
         </div>
