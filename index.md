@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -93,7 +92,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Graphic Designer / designsomething.com</b></h5>
+          <h5 class="w3-opacity"><b>Graphic Ingeniero de Sistemas / designsomething.com</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2010 - Mar 2012</h6>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p><br>
         </div>
